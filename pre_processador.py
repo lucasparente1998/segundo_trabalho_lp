@@ -25,7 +25,6 @@ if 'print f' in lista_linha:
 print('\n\nO pre_processador foi executado com sucesso!\n\n')
 
 #gravando o programa pre processado em outro arquivo para execução
-
 with open('Pre-processado.c','w') as output:
         output.write(lista_linha)
         output.close()
