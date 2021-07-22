@@ -1,0 +1,1 @@
+void function(){printf("%d\n",15);}int main(){char hello[10]="HELLO";function();printf("%s\n","HELLO");printf("Helloworld\n");}
